@@ -1,6 +1,6 @@
 <h1 align="center">Hello There! I'm Alejandro Medina</h1>
 
-I like to eat fish and bike when I'm not training for competitive programming (NOT passionate about web development).
+NOT passionate about web development.
 
 <h2>Languages</h2>
 <p align="center">
